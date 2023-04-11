@@ -24,7 +24,7 @@ public class Persona {
     @NotNull
     private String descripcion;
     
-    
+    @NotNull
     private String img;
 
     public Persona() {
